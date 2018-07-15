@@ -1,0 +1,37 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px; 
+	color: #222222;
+	line-height: 1.3;
+}
+
+header{
+	background-color: #AFFFF5;
+	padding: 20px;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+a {
+	color: #AFFFF5;
+	text-decoration: none;
+}
+
+nav a {
+	color: #AFFFF5;
+	font-style: italic;
+	margin-right: 10px;
+}
+
+img {
+	width: 100%;
+}
+
+
