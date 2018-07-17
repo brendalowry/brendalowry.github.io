@@ -35,12 +35,12 @@ header{
 }
 
 a {
-	color: #AFFFF5;
+	color: #FFDB1E;
 	text-decoration: none;
 }
 
 nav a {
-	color: #AFFFF5;
+	color: #FFDB1E;
 	font-style: italic;
 	text-transform: uppercase;
 }
@@ -54,7 +54,7 @@ h2 {
 hr {
 	border:none;
 	height:3px;
-	background-color: #AFFFF5;
+	background-color: #FFDB1E;
 	width:2em;
 	margin: 1em auto;
 }
@@ -68,7 +68,7 @@ img {
 }
 
 .navlinks{
-	color: #AFFFF5;
+	color: #FFDB1E;
 	text-transform: uppercase;
 	padding: 1em 2em;
 }
