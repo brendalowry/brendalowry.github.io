@@ -17,6 +17,9 @@ body {
 header{
 	width: 100%;
 	float: left;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 .hero-image {
@@ -43,6 +46,7 @@ nav a {
 	color: #FFDB1E;
 	font-style: italic;
 	text-transform: uppercase;
+	padding: 40px;
 }
 h1 {
 	text-shadow: 1px 1px 3px rgba(0,0,0,.25);
@@ -70,7 +74,7 @@ img {
 .navlinks{
 	color: #FFDB1E;
 	text-transform: uppercase;
-	padding: 1em 2em;
+	padding: 2em 2em;
 }
 
 .expertise{
@@ -88,3 +92,20 @@ img {
 	margin: 5em auto;
 }
 
+main {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
