@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Ovo');
+@import url('https://fonts.googleapis.com/css?family=Cuprum');
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center; 
+	font-family: 'Cuprum', Helvetica, sans-serif;
+	font-size: 20px; 
+	color: #222222;
+	line-height: 1.3;
+}
+
+header{
+	width: 100%;
+	float: left;
+}
+
+.hero-image {
+	background-image: url("../images/Brainstorming%20.jpg");
+	background-position: bottom;
+	background-size: cover;
+	height: 100vh;
+	text-align: left;
+	padding: 8em 0 0 5em;
+}
+
+.hero-text {
+	color: #ffffff;
+	width: 18em;
+	font-size: 2em;
+}
+
+a {
+	color: #FFDB1E;
+	text-decoration: none;
+}
+
+nav a {
+	color: #FFDB1E;
+	font-style: italic;
+	text-transform: uppercase;
+}
+h1 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,.25);
+}
+h2 {
+	margin-top:.5em;
+	font-size: 48px;
+}
+hr {
+	border:none;
+	height:3px;
+	background-color: #FFDB1E;
+	width:2em;
+	margin: 1em auto;
+}
+
+p {
+	font-family: 'Ovo', Palatino, Times New Roman, serif;
+}
+
+img {
+	width: 100%;
+}
+
+.navlinks{
+	color: #FFDB1E;
+	text-transform: uppercase;
+	padding: 1em 2em;
+}
+
+.expertise{
+	width: 30em;
+	margin: 5em auto;
+}
+
+.bio{
+	width: 30em;
+	margin: 5em auto;
+}
+
+.articles{
+	width: 30em;
+	margin: 5em auto;
+}
+
